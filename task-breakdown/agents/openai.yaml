@@ -1,0 +1,4 @@
+interface:
+  display_name: "Task Breakdown"
+  short_description: "Turn an idea into a few manageable coding tasks"
+  default_prompt: "Use $task-breakdown to help me divide my idea into manageable tasks."
